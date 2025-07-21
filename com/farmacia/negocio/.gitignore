@@ -1,8 +1,0 @@
-/out/
-/bin/
-/*.iml
-*.class
-*.log
-*.tmp
-.idea/
-.DS_Store
